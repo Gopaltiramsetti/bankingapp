@@ -1,0 +1,9 @@
+{
+  "productList" :[
+    { "id": 1, "name": "Notebooks", "price": 40, "description": "A4 notebook", "rating": 4.9, "quantity": 1 },
+    { "id": 2, "name": "'Pizza'", "price": 450, "description": "Italian food", "rating": 4.4, "quantity": 1 },
+    { "id": 3, "name": "Mouse", "price": 799, "description": "Wireless mouse", "rating": 3.7, "quantity": 1 },
+    { "id": 4, "name": "Car", "price": 900000, "description": "Electic car", "rating": 4.1, "quantity": 1 },
+    { "id": 5, "name": "Tyre", "price": 3000, "description": "Nylon tyre", "rating": 3.5, "quantity": 1 }
+  ]
+}
